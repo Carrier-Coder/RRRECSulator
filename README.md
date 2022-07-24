@@ -41,3 +41,5 @@ And the response will have all the details for your daily evaluation.
 For instance, someone could make a plugin that integrates very cleanly with Excel and call out to the rrecsulator api for the daily eval calculations...
 
 
+# License
+GPL v3

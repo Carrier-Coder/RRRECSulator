@@ -8,6 +8,10 @@ This repository contains the source code for the back end server of the site.
 
 Many eyes find many bugs.  Please report here, or email to [rrecsulator.com@gmail.com](mailto:rrecsulator.com@gmail.com)
 
+## History
+
+The calculator was developed from discussion in the [Rural Mail Talk Forum](https://www.ruralmailtalk.com/forums/rrecs-detailed-calculations-by-c.31/)
+
 ## Implementation Details
 
 The server is written in go.  Each folder roughly corresonds to a different component of a carriers evaluation (e.g `flat` is for dealing with flats, like newspapers, magazines, etc.)  There are a few specialized folders:
